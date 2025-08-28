@@ -6,12 +6,26 @@ Deployment is done using **Render**.
 
 ---
 
+## 🌱 Plant Disease Detection
+
+This project is focused on **plant disease detection** using deep learning.  
+You can find the detailed deep learning documentation here:  
+[Plant Disease Detection DL Documentation (Google Drive)](https://drive.google.com/file/d/17fn4_fwlZJHn8SLaAxJmC3sNX7OlG4hR/view)
+
+---
 ## 🚀 Features
 
 - Upload an image from your device.
 - CNN model (TensorFlow/Keras) predicts the class of the image.
 - Simple and clean UI with drag & drop support.
 - Deployable for free on Render.
+
+---
+
+## 🌐 Live Demo
+
+Check out the live website:  
+[https://plant-diseases-dection.onrender.com/](https://plant-diseases-dection.onrender.com/)
 
 ---
 
